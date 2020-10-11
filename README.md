@@ -1,6 +1,6 @@
 # vue-lit 阅读理解
 
-[vue-lit][1] 是 [yyx990803][2] 实现一个简单 web component 玩具。
+[vue-lit][1] 是 [yyx990803][2] 的一个 web component 玩具项目。
 
 这里是[其代码][3]的[阅读理解][4]，顺便改写为 ts。
 
